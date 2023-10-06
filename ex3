@@ -1,0 +1,9 @@
+The following code segment defines the color and font-size properties for H1 
+and H2 elements:
+<HEAD>
+<TITLE>CSS Example</TITLE>
+<STYLE TYPE="text/css">
+H1 { font-size: x-large; color: red }
+H2 { font-size: large; color: blue }
+</STYLE>
+</HEAD
