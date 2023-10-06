@@ -1,0 +1,18 @@
+The following short CSS style sheet (stored in the file "special.css"), sets the 
+text color of a paragraph to green and surrounds it with a solid red border: 
+P.special {
+color : green;
+border: solid red;
+}
+Authors may link this style sheet to their source HTML document with the 
+LINK element: 
+<HTML>
+<HEAD>
+<LINK href="special.css" rel="stylesheet" type="text/css">
+</HEAD>
+<BODY>
+<P class="special">This paragraph should have special green text 
+</P>
+normal text
+</BODY>
+</HTML
